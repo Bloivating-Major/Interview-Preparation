@@ -75,14 +75,41 @@ A curated collection of commonly asked JavaScript interview questions with detai
     - Binding Methods
     - Common Pitfalls
 
-## Advanced Topics (Coming Soon)
-14. Call, Apply, and Bind Methods
-15. Execution Context and Call Stack
-16. Callback Functions
-17. IIFE (Immediately Invoked Function Expression)
-18. Debounce and Throttle
-19. Currying
-20. Higher-Order Functions
+### Advanced Topics
+14. [Call, Apply, and Bind Methods](14_call_apply_bind/README.md)
+    - Method Differences
+    - Context Binding
+    - Function Borrowing
+
+15. [Execution Context and Call Stack](15_execution_context/README.md)
+    - Global Context
+    - Function Context
+    - Call Stack Mechanics
+
+16. [Callback Functions](16_callback_functions/README.md)
+    - Synchronous vs Asynchronous
+    - Error Handling
+    - Callback Hell
+
+17. [IIFE (Immediately Invoked Function Expression)](17_iife/README.md)
+    - Module Pattern
+    - Private Variables
+    - Avoiding Global Scope Pollution
+
+18. [Debounce and Throttle](18_debounce_throttle/README.md)
+    - Implementation Differences
+    - Performance Optimization
+    - Event Handling
+
+19. [Currying](19_currying/README.md)
+    - Partial Application
+    - Function Composition
+    - Specialized Functions
+
+20. [Higher-Order Functions](20_higher_order_functions/README.md)
+    - Function Composition
+    - Function Factories
+    - Functional Programming Patterns
 
 ## How to Use This Guide
 
@@ -119,4 +146,4 @@ MIT License - Feel free to use this for your interview preparation.
 
 ## Acknowledgments
 
-Thank you to all the contributors who have contributed to this guide.
+Thanks to all contributors who helped compile these questions and answers.
